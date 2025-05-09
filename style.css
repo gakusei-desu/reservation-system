@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    font-family: 'Libre Baskerville', serif;
+    background-image: url(./img/seigaiha.webp);
+    background-repeat: repeat;
+}
+
+.rs-marquee {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 0px;
+    width: 100%;
+    min-height: 100%;
+}

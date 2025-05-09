@@ -1,7 +1,7 @@
 # Reservation System
 This project is a simple reservation system built with PHP and MySQL. It allows users to check room availability, make and confirm reservations, and view customer and reservation records. The app is structured with separation of concerns, using basic models and configuration files to improve maintainability.
 
-## 🛠️ Features
+## Features
 
 - Check room availability
 - Submit and confirm reservations
@@ -15,7 +15,7 @@ This project is a simple reservation system built with PHP and MySQL. It allows 
   They are accessed using `getenv()` and set via `.htaccess`, which is excluded from this repository.
 - Development/testing files like `session_test.php` are removed to keep the code clean and production-ready.
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone this repository:
    ```bash
@@ -35,8 +35,6 @@ This project is a simple reservation system built with PHP and MySQL. It allows 
 ```bash
 php -S localhost:8000
 ```
-## Screenshots (optional)
-You can include screenshots here to show off the UI. Use markdown:
 
 ## License
 This project is open-source and provided for educational/demo purposes.
